@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorVeryOffTune">#FA6900</color>
+    <color name="colorOffTune">#F38630</color>
+    <color name="colorNoTune">#E0E4CC</color>
+    <color name="colorNearTune">#A7DBD8</color>
+    <color name="colorInTune">#69D2E7</color>
+</resources>

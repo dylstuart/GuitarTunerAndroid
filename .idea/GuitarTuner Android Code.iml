@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../GuitarTuner Android Code/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../GuitarTuner Android Code/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../GuitarTuner Android Code/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../GuitarTuner Android Code/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../GuitarTuner Android Code/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../GuitarTuner Android Code/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../GuitarTuner Android Code/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
